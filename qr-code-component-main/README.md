@@ -65,7 +65,7 @@ I would definitely love to get more comfortable with css, and this qr component 
 ## Author
 
 - Website - [Dhanush Kumar](https://www.dhanush-kumar.in)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/dhanush-kuma)
+- Frontend Mentor - [@dhanush-kuma](https://www.frontendmentor.io/profile/dhanush-kuma)
 
 ## Acknowledgments
 
